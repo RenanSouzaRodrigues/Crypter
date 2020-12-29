@@ -8,3 +8,11 @@
     <version>1.9.3</version>
 </dependency>
 ```
+
+#### Required Maven dependency
+Obviously, you dont have to clone this repository just copy the class code. 
+**Tips:**
+```
+Ctrl + C
+Ctrl + V
+``` 
