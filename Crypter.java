@@ -6,7 +6,7 @@ import org.jasypt.util.text.BasicTextEncryptor;
 public class Crypter {
 	private static BasicTextEncryptor textEncryptor = new BasicTextEncryptor();
 	private static BasicPasswordEncryptor passwordEncryptor = new BasicPasswordEncryptor();
-	private static String masterPassword = "d7831ec62134ddccbe4d121f242959fc4254c88b575c410b571d7702da9e7afc";
+	private static String masterPassword = "defineYourPasswordHere";
 	
 	public static String encrypt(String textToEncrypt) {
 		textEncryptor.setPasswordCharArray(masterPassword.toCharArray());
