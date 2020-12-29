@@ -9,9 +9,10 @@
 </dependency>
 ```
 
-#### Required Maven dependency
+#### Install
 Obviously, you dont have to clone this repository. Just copy the class code. 
-**Tips:**
+
+#### Tips
 ```
 Ctrl + C
 Ctrl + V
