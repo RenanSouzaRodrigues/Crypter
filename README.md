@@ -1,6 +1,6 @@
-#Crypter v1.0.0
+# Crypter v1.0.0
 
-####Required Maven dependency
+#### Required Maven dependency
 ```
 <dependency>
     <groupId>org.jasypt</groupId>
