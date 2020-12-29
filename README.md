@@ -10,7 +10,7 @@
 ```
 
 #### Required Maven dependency
-Obviously, you dont have to clone this repository just copy the class code. 
+Obviously, you dont have to clone this repository. Just copy the class code. 
 **Tips:**
 ```
 Ctrl + C
